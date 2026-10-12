@@ -1,0 +1,4 @@
+Model,Accuracy,Precision,Recall,F1 Score,AUROC
+Tuned SVM Polynomial,0.7541,0.6957,0.9697,0.8101,0.8442
+Tuned Elastic Net,0.8033,0.7838,0.8788,0.8286,0.8810
+Tuned Logistic Regression,0.8033,0.8000,0.8485,0.8235,0.8810

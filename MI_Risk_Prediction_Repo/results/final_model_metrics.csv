@@ -1,0 +1,6 @@
+Metric,Value
+Accuracy,0.8033
+Precision,0.7838
+Recall,0.8788
+F1 Score,0.8286
+AUROC,0.8810
