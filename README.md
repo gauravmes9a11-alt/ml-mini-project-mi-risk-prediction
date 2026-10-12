@@ -5,9 +5,9 @@ PES University, Bengaluru
 
 | | |
 |---|---|
-| **Team** | `<Team No.>` – Gaurav S. (PES1UG24AM104) and `<Teammate name (USN)>` |
-| **Problem statement** | `<Serial No. and title as per the master list>` |
-| **Section / Faculty** | `<Section>` / `<Faculty name>` |
+| **Team Number** |  9 |
+| **Team** |  Gaurav S. (PES1UG24AM104) and Dhareen G. (PES1UG24AM084) |
+| **Problem statement** | Myocardial Infarction Risk Prediction Using Machine Learning |
 
 ---
 
@@ -165,14 +165,8 @@ show_prediction(
 - Class labels reflect heart-disease presence, not confirmed MI events.
 - Possible extensions: calibration of predicted probabilities, feature-importance / SHAP analysis, external validation on a larger cohort, and a simple web interface for the predictor.
 
-## 8. Team Contributions
 
-| Member | Contribution |
-|---|---|
-| Gaurav S. | `<fill in – e.g. EDA, PCA/clustering, model training, tuning>` |
-| `<Teammate>` | `<fill in>` |
+## .8 License / Academic Use
 
-## 9. License / Academic Use
-
-Prepared as coursework for UE24CS352A, PES University. Dataset credit belongs to its original source.
+Prepared as coursework for UE24CS352A, Dataset credit belongs to its original source.
 "# Myocardial_Infarction_Prediction" 
